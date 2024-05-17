@@ -26,3 +26,7 @@ img {
     font-weight: 700;
     color: blue;
 }
+.links {
+    text-align: left;
+    align-items:flex-start;
+}
