@@ -1,0 +1,18 @@
+The application https://knhts.health.go.ke use the javaScript framework NEXTJS as the frontend application.
+NEXTJS has a backend feature which allows it to make request at the backend and provide the data to the UI 
+in realtime unlike reactjs which handles all the request from the UI
+
+The frontend application is supported by a backend application which is running from IP address 41.89.92.186 
+from an application running on port 8000.
+The backend application is most likely running on pytho django
+
+The separation of the backend and frontend is a good thing, however this can be disastrous if one fail, eg.
+if the backend fail the UI will still make request and give the user a false output or outdate output incase of cached data in the frontend application
+
+Since python-Django is an ORM, it would be wise to have the application coupled into one so as to reduce the points of failures.
+
+Django has a templating engine which can be used to do the UI in the coupled application.
+
+Also this will enable the application to enjoys rich django features
+
+The front end work was not completed fully. Time limitation

@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "name": "DHIS2 Landing Page",
+    "name": "Landing-Page",
     "description": "Redirect page",
     "launch_path": "html/index.html",
     "appType": "APP",

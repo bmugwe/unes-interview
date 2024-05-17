@@ -1,1 +1,8 @@
 q3/env/*
+
+
+q1/node_modules/*
+q1/package-lock.json
+
+
+q2/venv/*
