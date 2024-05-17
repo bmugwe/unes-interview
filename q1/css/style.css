@@ -1,0 +1,28 @@
+.logo-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.img {
+    width: 150px;
+    height: 150px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+.link-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    text-decoration: underline;
+}
+
+.link-header  h2 {
+    font-weight: 700;
+    color: blue;
+}
