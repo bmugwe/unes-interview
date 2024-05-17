@@ -2,11 +2,8 @@
     "version": "1.0.0",
     "name": "DHIS2 Landing Page",
     "description": "Redirect page",
-    "launch_path": "index.html",
+    "launch_path": "html/index.html",
     "appType": "APP",
-    "icons": {
-        "48": "assets/images/prd.png"
-    },
     "developer": {
         "name": "Boniface Mugwe",
         "url": ""
